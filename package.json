@@ -1,0 +1,15 @@
+{
+  "name": "storeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "iamLeb - Caleb Aguziendu",
+  "license": "ISC"
+}
